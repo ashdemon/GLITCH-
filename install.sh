@@ -40,6 +40,8 @@ echo -e $green   "3- parrot"
 echo
 echo -e $green   "4-Debian"
 echo
+echo -e $green   "5-about "
+echo
 echo -e $green   "0- Exit"
 read use
 if [ $use = 2 ]
