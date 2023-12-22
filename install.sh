@@ -82,3 +82,9 @@ then
   exti
   exti
 fi
+
+
+if [ $use = 5 ]
+then
+  bash about.sh
+fi
