@@ -17,7 +17,7 @@ echo -e $green "-                                                     -"
 sleep 0.3
 echo -e $green "-                                                     -"
 sleep 0.3
-echo -e $green "-                 $red INSTALL O.S GLITCH    $green              -"
+echo -e $green "-                 $red INSTALL O.S GLITCH    $green             -"
 sleep 0.3
 echo -e $green "-                                                     -"
 sleep 0.3
